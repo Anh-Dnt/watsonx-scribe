@@ -41,7 +41,7 @@ To run this project locally, please follow these steps.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/watsonx-scribe.git](https://github.com/your-username/watsonx-scribe.git)
+    git clone [https://github.com/Anh-Dnt/watsonx-scribe.git](https://github.com/Anh-Dnt/watsonx-scribe.git)
     cd watsonx-scribe
     ```
 2.  Install the required Python packages:
